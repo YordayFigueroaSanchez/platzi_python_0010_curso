@@ -73,6 +73,9 @@ uv venv
     Uso de property para controlar el acceso a los atributos de una clase.
     [property : employee.py](property/employee.py)
 - [Métodos estáticos y de clase en Python](https://platzi.com/cursos/python/metodos-estaticos-y-de-clase-avanzados/)
-    - Métodos estáticos y de clase
-    Acceso a los metodos sin instanciar la clase con staticmethod y classmethod
+    - Métodos estáticos
+    Acceso a los metodos sin instanciar la clase con staticmethod
     [static_class_methods : order.py](static_class_methods/order.py)
+    - Metodos de clase
+    Acceso a los metodos de clase sin instanciar la clase con classmethod
+    [static_class_methods : person.py](static_class_methods/person.py)
