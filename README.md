@@ -110,3 +110,12 @@ uv venv
     - Sincronía vs Concurrencia
     Comparacion entre ejecucion sincrona y concurrente usando time.sleep para simular tareas que toman tiempo
     [concurrency_asincronia : pedidos_online.py](concurrency_asincronia/pedidos_online.py)
+- [Módulos y Paquetes en Python: Reutilización y Organización de Código](https://platzi.com/cursos/python/creacion-de-modulos-en-python/)
+    - Módulos y Paquetes
+    Creacion y uso de modulos y paquetes en python
+    Ayuda a reutilizar y organizar el codigo en proyectos mas grandes.
+    Organizacion y mantenibilidad del codigo.
+    Cualquier archivo .py es un modulo.
+    [modules : reports.py](modules/reports.py)
+    [modules : app.py](modules/app.py)
+    [modules : app2.py](modules/app2.py)
