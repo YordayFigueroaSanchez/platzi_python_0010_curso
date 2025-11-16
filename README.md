@@ -47,3 +47,6 @@ uv venv
 - [Ejecutar scripts Python con `if __name__ == '__main__'`](https://platzi.com/cursos/python/implementacion-de-if-__name__-__main/)
     - `if __name__ == '__main__'`
     [magic_methods : calculator.py](magic_methods/calculator.py)
+- [Metaprogramación en Python: Métodos `__new__` y `__init__`](https://platzi.com/cursos/python/metaprogramacion-en-python/)
+    - MultiplerFactory
+    [magic_methods : multipler_factory.py](magic_methods/multipler_factory.py)
