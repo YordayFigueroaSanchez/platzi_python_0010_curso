@@ -40,3 +40,6 @@ uv venv
     [decorators : class_method.py](decorators/class_method.py)
     Podemos acceder a un metodo como atributo con property
     [decorators : property.py](decorators/property.py)
+- [Uso de Métodos Mágicos en Python](https://platzi.com/cursos/python/metodos-magicos/)
+    - Métodos mágicos
+    [magic_methods : person.py](magic_methods/person.py)
