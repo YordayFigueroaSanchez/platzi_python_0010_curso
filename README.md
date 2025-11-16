@@ -106,3 +106,7 @@ uv venv
     - Introduccion a AsyncIO
     Uso basico de async y await para definir y ejecutar corrutinas
     [asyncio : introduction_asyncio.py](asyncio/introduction_asyncio.py)
+- [Sincronía y Concurrencia en Python: Teoría y Práctica](https://platzi.com/cursos/python/asincronismo-y-concurrencia/)
+    - Sincronía vs Concurrencia
+    Comparacion entre ejecucion sincrona y concurrente usando time.sleep para simular tareas que toman tiempo
+    [concurrency_asincronia : pedidos_online.py](concurrency_asincronia/pedidos_online.py)
