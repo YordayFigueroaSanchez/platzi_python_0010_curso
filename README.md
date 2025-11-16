@@ -50,3 +50,7 @@ uv venv
 - [Metaprogramación en Python: Métodos `__new__` y `__init__`](https://platzi.com/cursos/python/metaprogramacion-en-python/)
     - MultiplerFactory
     [magic_methods : multipler_factory.py](magic_methods/multipler_factory.py)
+- [Uso de *args y **kwargs en funciones de Python](https://platzi.com/cursos/python/uso-de-args-y-kwargs/)
+    - *args
+    Cuando no sabemos cuantos argumentos vamos a recibir en una funcion y llegan como una tupla
+    [args_kwargs : args.py](args_kwargs/args.py)
