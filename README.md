@@ -72,3 +72,7 @@ uv venv
     - Property: Getter, Setter y Deleter
     Uso de property para controlar el acceso a los atributos de una clase.
     [property : employee.py](property/employee.py)
+- [Métodos estáticos y de clase en Python](https://platzi.com/cursos/python/metodos-estaticos-y-de-clase-avanzados/)
+    - Métodos estáticos y de clase
+    Acceso a los metodos sin instanciar la clase con staticmethod y classmethod
+    [static_class_methods : order.py](static_class_methods/order.py)
