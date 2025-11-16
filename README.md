@@ -32,3 +32,11 @@ uv venv
 - [Uso de Decoradores Anidados y con Parámetros en Python](https://platzi.com/cursos/python/decoradores-anidados-y-con-parametros/)
     - Decoradores anidados
     [decorators_advanced.py](decorators_advanced.py)
+- [Decoradores en Programación Orientada a Objetos en Python](https://platzi.com/cursos/python/uso-de-decoradores-en-clases-y-metodos/)
+    - Decoradores en POO
+    Solo se crea la clase y se agrega el decorador staticmethod
+    [decorators : static.py](decorators/static.py)
+    Modfica algun aspecto de la clase con classmethod y se le pasa la clase como parametro
+    [decorators : class_method.py](decorators/class_method.py)
+    Podemos acceder a un metodo como atributo con property
+    [decorators : property.py](decorators/property.py)
