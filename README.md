@@ -89,3 +89,16 @@ uv venv
     - Paralelismo
     Se simula la ejecucion paralela de varias tareas usando multiprocessing
     [concurrency_asincronia : parallelism.py](concurrency_asincronia/parallelism.py)
+- [Concurrencia y Paralelismo en Python: threading y multiprocessing](https://platzi.com/cursos/python/threading-y-multiprocessing-en-python/)
+    - Concurrencia con lock
+    Se maneja el acceso a un recurso compartido usando locks para evitar condiciones de carrera
+    [concurrency_asincronia : concurrency_lock.py](concurrency_asincronia/concurrency_lock.py)
+    - Compartir Datos entre Procesos con multiprocessing
+    Usamos Queue para que el proceso secundario pueda pasar datos de vuelta al proceso principal.
+    [concurrency_asincronia : shared_data_multiprocessing.py](concurrency_asincronia/shared_data_multiprocessing.py)
+    - Problemas de Sincronización y Cómo Evitarlos
+    Usamos RLock para evitar que múltiples operaciones simultáneas en una cuenta causen bloqueos.
+    [concurrency_asincronia : synchronization_problems.py](concurrency_asincronia/synchronization_problems.py)
+    - Coordinación de Tareas con multiprocessing.Manager
+    Cuando los procesos deben compartir estructuras de datos complejas (como listas o diccionarios), podemos usar un Manager para crear un espacio de memoria compartido entre procesos.
+    [concurrency_asincronia : task_coordination.py](concurrency_asincronia/task_coordination.py)
