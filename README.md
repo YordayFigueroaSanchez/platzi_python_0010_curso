@@ -16,11 +16,12 @@ uv venv
 
 # Curso 0010
 - [Estructuras de Datos Avanzadas en Python: Collection y Enumeraciones](https://platzi.com/cursos/python/libreria-collections-y-enumeraciones/)
-    - Collections : deque
+    - Collections : deque (Uso de colas)
     [manage_delivery_queue.py](manage_delivery_queue.py)
-    - Collections : enumerate
+    - Collections : enumerate (Uso de enumeraciones)
     [order_status.py](order_status.py)
-    - Collections : defaultdict
+    - Collections : defaultdict (Uso de diccionarios con valores por defecto)
     [count_products.py](count_products.py)
-    - Collections : counter
+    - Collections : counter (Conteo de elementos)
     [most_common_products.py](most_common_products.py)
+    [counter_string.py](counter_string.py)
