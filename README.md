@@ -44,3 +44,6 @@ uv venv
     - Métodos mágicos
     [magic_methods : person.py](magic_methods/person.py)
     [magic_methods : sum_fractions.py](magic_methods/sum_fractions.py)
+- [Ejecutar scripts Python con `if __name__ == '__main__'`](https://platzi.com/cursos/python/implementacion-de-if-__name__-__main/)
+    - `if __name__ == '__main__'`
+    [magic_methods : calculator.py](magic_methods/calculator.py)
