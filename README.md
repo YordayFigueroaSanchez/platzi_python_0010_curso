@@ -86,3 +86,6 @@ uv venv
     - Concurrencia
     Se simula la ejecucion conurrente de varias tareas usando threading
     [concurrency_asincronia : concurrency.py](concurrency_asincronia/concurrency.py)
+    - Paralelismo
+    Se simula la ejecucion paralela de varias tareas usando multiprocessing
+    [concurrency_asincronia : parallelism.py](concurrency_asincronia/parallelism.py)
