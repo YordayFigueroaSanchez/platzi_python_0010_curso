@@ -82,3 +82,7 @@ uv venv
     - Actividad de la clase
     Aplica un descuento si el monto de la orden es mayor a un valor minimo usando classmethod
     [static_class_methods : activity.py](static_class_methods/activity.py)
+- [Concurrencia y Paralelismo en Python: Técnicas y Librerías Básicas](https://platzi.com/cursos/python/introduccion-a-la-concurrencia-y-paralelismo/)
+    - Concurrencia
+    Se simula la ejecucion conurrente de varias tareas usando threading
+    [concurrency_asincronia : concurrency.py](concurrency_asincronia/concurrency.py)
