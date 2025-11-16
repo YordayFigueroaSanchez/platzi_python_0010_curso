@@ -54,3 +54,6 @@ uv venv
     - *args
     Cuando no sabemos cuantos argumentos vamos a recibir en una funcion y llegan como una tupla
     [args_kwargs : args.py](args_kwargs/args.py)
+    - **kwargs
+    Cuando no sabemos cuantos argumentos nombrados vamos a recibir en una funcion y llegan como un diccionario
+    [args_kwargs : kwargs.py](args_kwargs/kwargs.py)
