@@ -22,3 +22,5 @@ uv venv
     [order_status.py](order_status.py)
     - Collections : defaultdict
     [count_products.py](count_products.py)
+    - Collections : counter
+    [most_common_products.py](most_common_products.py)
