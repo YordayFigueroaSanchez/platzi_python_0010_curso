@@ -43,3 +43,4 @@ uv venv
 - [Uso de Métodos Mágicos en Python](https://platzi.com/cursos/python/metodos-magicos/)
     - Métodos mágicos
     [magic_methods : person.py](magic_methods/person.py)
+    [magic_methods : sum_fractions.py](magic_methods/sum_fractions.py)
