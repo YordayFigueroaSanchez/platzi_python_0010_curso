@@ -119,3 +119,12 @@ uv venv
     [modules : reports.py](modules/reports.py)
     [modules : app.py](modules/app.py)
     [modules : app2.py](modules/app2.py)
+- [Uso de Paquetes y Subpaquetes en Python con Visual Studio Code](https://platzi.com/cursos/python/gestion-de-paquetes/)
+    - Paquetes y Subpaquetes
+    Creacion y uso de paquetes y subpaquetes en python
+    Facilita la organizacion del codigo en proyectos grandes.
+    Evita conflictos de nombres entre modulos.
+    [packages : main.py](packages/main.py)
+    [packages : __init__.py](packages/ecommerce/__init__.py)
+    [packages : inventory.py](packages/ecommerce/inventory.py)
+    [packages : sale.py](packages/ecommerce/sale.py)
