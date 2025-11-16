@@ -28,3 +28,4 @@ uv venv
 - [Decoradores en Python: Extiende Funcionalidades de Funciones](https://platzi.com/cursos/python/decoradores-en-python/)
     - Decoradores simple
     [decorators_simple.py](decorators_simple.py)
+    [delete_user.py](delete_user.py)
