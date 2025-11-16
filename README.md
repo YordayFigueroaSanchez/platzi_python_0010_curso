@@ -61,3 +61,10 @@ uv venv
     [args_kwargs : args_kwargs.py](args_kwargs/args_kwargs.py)
     - desempaquetado de argumentos
     [args_kwargs : unpacking.py](args_kwargs/unpacking.py)
+- [Métodos y Atributos Privados y Protegidos en Python](https://platzi.com/cursos/python/metodos-privados-y-protegidos/)
+    - Métodos y Atributos Protegidos
+    Los metodos y atributos protegidos se indican con un guion bajo al inicio del nombre. Igual quedan accesibles desde fuera de la clase pero se indica que son para uso interno o de subclases.
+    [private_protected : protected.py](private_protected/protected.py)
+    - Métodos y Atributos Privados
+    Los metodos y atributos privados se indican con dos guiones bajos al inicio del nombre. Quedan inaccesibles desde fuera de la clase.
+    [private_protected : private.py](private_protected/private.py)
