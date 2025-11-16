@@ -25,3 +25,6 @@ uv venv
     - Collections : counter (Conteo de elementos)
     [most_common_products.py](most_common_products.py)
     [counter_string.py](counter_string.py)
+- [Decoradores en Python: Extiende Funcionalidades de Funciones](https://platzi.com/cursos/python/decoradores-en-python/)
+    - Decoradores simple
+    [decorators_simple.py](decorators_simple.py)
