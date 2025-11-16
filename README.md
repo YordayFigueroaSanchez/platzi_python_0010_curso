@@ -29,3 +29,6 @@ uv venv
     - Decoradores simple
     [decorators_simple.py](decorators_simple.py)
     [delete_user.py](delete_user.py)
+- [Uso de Decoradores Anidados y con Parámetros en Python](https://platzi.com/cursos/python/decoradores-anidados-y-con-parametros/)
+    - Decoradores anidados
+    [decorators_advanced.py](decorators_advanced.py)
