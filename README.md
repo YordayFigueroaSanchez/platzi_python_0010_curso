@@ -1,0 +1,2 @@
+# platzi_python_0010_curso
+platzi_python_0010_curso
