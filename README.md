@@ -57,3 +57,5 @@ uv venv
     - **kwargs
     Cuando no sabemos cuantos argumentos nombrados vamos a recibir en una funcion y llegan como un diccionario
     [args_kwargs : kwargs.py](args_kwargs/kwargs.py)
+    - usar ambos y el paso de argumentos normales
+    [args_kwargs : args_kwargs.py](args_kwargs/args_kwargs.py)
