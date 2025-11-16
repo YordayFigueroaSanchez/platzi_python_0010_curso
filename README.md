@@ -18,3 +18,5 @@ uv venv
 - [Estructuras de Datos Avanzadas en Python: Collection y Enumeraciones](https://platzi.com/cursos/python/libreria-collections-y-enumeraciones/)
     - Collections : deque
     [manage_delivery_queue.py](manage_delivery_queue.py)
+    - Collections : enumerate
+    [order_status.py](order_status.py)
