@@ -79,3 +79,6 @@ uv venv
     - Metodos de clase
     Acceso a los metodos de clase sin instanciar la clase con classmethod
     [static_class_methods : person.py](static_class_methods/person.py)
+    - Actividad de la clase
+    Aplica un descuento si el monto de la orden es mayor a un valor minimo usando classmethod
+    [static_class_methods : activity.py](static_class_methods/activity.py)
