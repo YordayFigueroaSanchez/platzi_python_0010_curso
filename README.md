@@ -102,3 +102,7 @@ uv venv
     - Coordinación de Tareas con multiprocessing.Manager
     Cuando los procesos deben compartir estructuras de datos complejas (como listas o diccionarios), podemos usar un Manager para crear un espacio de memoria compartido entre procesos.
     [concurrency_asincronia : task_coordination.py](concurrency_asincronia/task_coordination.py)
+- [Asincronismo en Python con AsyncIO y Corrutinas](https://platzi.com/cursos/python/asincronismo-con-asyncio/)
+    - Introduccion a AsyncIO
+    Uso basico de async y await para definir y ejecutar corrutinas
+    [asyncio : introduction_asyncio.py](asyncio/introduction_asyncio.py)
