@@ -20,3 +20,5 @@ uv venv
     [manage_delivery_queue.py](manage_delivery_queue.py)
     - Collections : enumerate
     [order_status.py](order_status.py)
+    - Collections : defaultdict
+    [count_products.py](count_products.py)
