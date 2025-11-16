@@ -68,3 +68,7 @@ uv venv
     - Métodos y Atributos Privados
     Los metodos y atributos privados se indican con dos guiones bajos al inicio del nombre. Quedan inaccesibles desde fuera de la clase.
     [private_protected : private.py](private_protected/private.py)
+- [Uso de Property en Python: Getter, Setter y Eliminación de Atributos](https://platzi.com/cursos/python/gestion-avanzada-de-propiedades/)
+    - Property: Getter, Setter y Deleter
+    Uso de property para controlar el acceso a los atributos de una clase.
+    [property : employee.py](property/employee.py)
