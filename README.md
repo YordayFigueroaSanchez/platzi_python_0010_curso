@@ -128,3 +128,7 @@ uv venv
     [packages : __init__.py](packages/ecommerce/__init__.py)
     [packages : inventory.py](packages/ecommerce/inventory.py)
     [packages : sale.py](packages/ecommerce/sale.py)
+- [Publicación de Paquetes Python en PyPI](https://platzi.com/cursos/python/publicacion-de-paquetes-en-pypi/)
+    - Publicacion en PyPI
+    Creacion y publicacion de paquetes en PyPI
+    [PyPi](https://pypi.org/) es el repositorio oficial de paquetes de Python.
