@@ -135,3 +135,5 @@ uv venv
 - [Sistema de Gestión de Reservas en Python Avanzado](https://platzi.com/cursos/python/71751-implementacion-de-un-sistema-completo/)
 - Proyecto Final Curso Python Avanzado
     - [proyecto](proyecto)
+- Examen Final Curso Python Avanzado
+    - [examen_final.py](0010/examen_final.py)
