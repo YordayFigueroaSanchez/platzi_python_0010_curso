@@ -132,3 +132,6 @@ uv venv
     - Publicacion en PyPI
     Creacion y publicacion de paquetes en PyPI
     [PyPi](https://pypi.org/) es el repositorio oficial de paquetes de Python.
+- [Sistema de Gestión de Reservas en Python Avanzado](https://platzi.com/cursos/python/71751-implementacion-de-un-sistema-completo/)
+- Proyecto Final Curso Python Avanzado
+    - [proyecto](proyecto)
