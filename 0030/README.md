@@ -11,3 +11,9 @@
     git switch main
     git merge test
     git branch -D test
+
+- [Git Reset vs Git Revert: Manejo de Historial y Corrección de Errores](https://platzi.com/cursos/gitgithub/volviendo-en-el-tiempo-en-git-reset-revert/)
+    git reset --soft HEAD~1
+    git reset --mixed HEAD~1
+    git reset --hard HEAD~1
+    git revert HEAD
