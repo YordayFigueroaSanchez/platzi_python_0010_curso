@@ -14,9 +14,12 @@ uv venv
 ```
 
 
-# Curso 0010
+# Curso 0010 - Fundamentos de Python
 [0010/README.md](0010/README.md)
 
-# Curso 0020
+# Curso 0020 - Fundamentos de Python
 [0020/README.md](0020/README.md)
+
+# Curso 0030 - Curso de Git y GitHub
+[0030/README.md](0030/README.md)
 
