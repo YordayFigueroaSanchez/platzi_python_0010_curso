@@ -9,3 +9,5 @@
     git branch test
     git checkout test
     git switch main
+    git merge test
+    git branch -D test
