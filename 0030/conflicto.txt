@@ -1,1 +1,2 @@
 creacion del archivo conflicto.txt
+linea desde branch main
