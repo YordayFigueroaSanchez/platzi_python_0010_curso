@@ -29,3 +29,7 @@
     git tag -d v1.0.0
     - checkout a un commit
     git checkout 5c0e62ec0941286d223f7b998533a73f411608a5
+
+- [Resolución de Conflictos de Ramas en Git paso a paso](https://platzi.com/cursos/gitgithub/resolucion-de-conflictos-en-git/)
+    - resolver conflictos
+    crear archivo `conflicto.txt`
