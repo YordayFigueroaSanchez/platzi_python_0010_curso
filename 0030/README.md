@@ -33,3 +33,12 @@
 - [Resolución de Conflictos de Ramas en Git paso a paso](https://platzi.com/cursos/gitgithub/resolucion-de-conflictos-en-git/)
     - resolver conflictos
     crear archivo `conflicto.txt`
+    git checkout -b conflicto
+    git add conflicto.txt
+    git commit -m "agregar conflicto.txt"
+    git checkout main
+    git merge conflicto
+    git status
+    git diff
+    git add conflicto.txt
+    git commit -m "resolver conflictos"
