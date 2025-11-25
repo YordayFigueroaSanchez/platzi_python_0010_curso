@@ -1,1 +1,2 @@
 creacion del archivo conflicto_vsc.txt
+actualizacion del archivo conflicto_vsc.txt desde el branch con conflicto_vsc
