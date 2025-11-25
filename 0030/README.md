@@ -45,4 +45,12 @@
 
 - [Uso de Git en Visual Studio Code](https://platzi.com/cursos/gitgithub/usando-git-desde-vs-code/)
     - probar conflictos desde VSCode
-    
+
+- [Configuración de SSH en GitHub para Windows, Linux y Mac](https://platzi.com/cursos/gitgithub/configuracion-de-llaves-ssh/)
+    - generar llave ssh
+    ssh-keygen -t ed25519 -C "mail@example.com"
+    - agregar llave ssh a github
+    ssh-add ~/.ssh/id_ed25519
+    - clonar repositorio
+    git clone git@github.com:username/repository.git
+
