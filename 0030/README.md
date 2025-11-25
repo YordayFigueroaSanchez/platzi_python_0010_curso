@@ -42,3 +42,7 @@
     git diff
     git add conflicto.txt
     git commit -m "resolver conflictos"
+
+- [Uso de Git en Visual Studio Code](https://platzi.com/cursos/gitgithub/usando-git-desde-vs-code/)
+    - probar conflictos desde VSCode
+    
