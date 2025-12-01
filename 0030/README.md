@@ -55,4 +55,7 @@
     git clone git@github.com:username/repository.git
 
 - [Configuración de Proyectos de Software con Git y GitHub](https://platzi.com/cursos/gitgithub/importancia-de-los-pull-requests-y-ramas-en-github/)
-
+```
+uv pip install -r .\0030-api\requirements.txt
+uvicorn app:app --reload
+```
