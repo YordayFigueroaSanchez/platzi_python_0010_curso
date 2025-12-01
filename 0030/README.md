@@ -54,3 +54,5 @@
     - clonar repositorio
     git clone git@github.com:username/repository.git
 
+- [Configuración de Proyectos de Software con Git y GitHub](https://platzi.com/cursos/gitgithub/importancia-de-los-pull-requests-y-ramas-en-github/)
+
