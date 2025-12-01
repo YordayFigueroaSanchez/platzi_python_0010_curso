@@ -23,3 +23,6 @@ uv venv
 # Curso 0030 - Curso de Git y GitHub
 [0030/README.md](0030/README.md)
 
+# Curso 0040 - Curso de Python: Comprehension y Manejo de Errores
+[0040/README.md](0040/README.md)
+
