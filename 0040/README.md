@@ -7,3 +7,8 @@ Permite modificarse
 
 [0040/01_set.py](01_set.py)
 
+# [Operaciones Fundamentales con Conjuntos en Python](https://platzi.com/cursos/python-funciones/operaciones-con-conjuntos/)
+[0040/03_set_operation.py](03_set_operation.py)
+
+
+
