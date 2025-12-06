@@ -48,3 +48,6 @@ Permite modificarse
 
 # [Funciones de Orden Superior en Python: Concepto y Ejemplos Prácticos](https://platzi.com/cursos/python-funciones/higher-order-function-una-funcion-dentro-de-otra-f/)
 [0040/13_higher_order_function.py](13_higher_order_function.py)
+
+# [Uso de la función map en Python para transformar listas](https://platzi.com/cursos/python-funciones/map/)
+[0040/14_map.py](14_map.py)
