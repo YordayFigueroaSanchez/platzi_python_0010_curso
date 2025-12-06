@@ -51,3 +51,6 @@ Permite modificarse
 
 # [Uso de la función map en Python para transformar listas](https://platzi.com/cursos/python-funciones/map/)
 [0040/14_map.py](14_map.py)
+
+# [Transformaciones con Map en Diccionarios Complexos](https://platzi.com/cursos/python-funciones/map-con-diccionarios/)
+[0040/15_map_complex.py](15_map_complex.py)
