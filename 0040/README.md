@@ -62,3 +62,6 @@ Permite modificarse
 [0040/17_filter.py](17_filter.py)
 [0040/17_filter_dict.py](17_filter_dict.py)
 [0040/17_ejercicio.py](17_ejercicio.py)
+
+# [Uso de Reduce en Python para Manipular Listas](https://platzi.com/cursos/python-funciones/reduce/)
+[0040/18_reduce.py](18_reduce.py)
