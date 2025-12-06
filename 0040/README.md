@@ -54,3 +54,5 @@ Permite modificarse
 
 # [Transformaciones con Map en Diccionarios Complexos](https://platzi.com/cursos/python-funciones/map-con-diccionarios/)
 [0040/15_map_complex.py](15_map_complex.py)
+
+# [Manejo de referencias en memoria con diccionarios y map en Python](https://platzi.com/cursos/python-funciones/reto-map-con-inmutabilidad/)
