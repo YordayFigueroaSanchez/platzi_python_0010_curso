@@ -57,3 +57,8 @@ Permite modificarse
 
 # [Manejo de referencias en memoria con diccionarios y map en Python](https://platzi.com/cursos/python-funciones/reto-map-con-inmutabilidad/)
 [0040/15_ejercicio.py](15_ejercicio.py)
+
+# [Filtrado de listas con Filter en Python](https://platzi.com/cursos/python-funciones/filter/)
+[0040/17_filter.py](17_filter.py)
+[0040/17_filter_dict.py](17_filter_dict.py)
+[0040/17_ejercicio.py](17_ejercicio.py)
