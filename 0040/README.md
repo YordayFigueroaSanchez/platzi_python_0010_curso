@@ -40,3 +40,5 @@ Permite modificarse
 
 # [Refactorización de Juegos en Python: Uso de Funciones](https://platzi.com/cursos/python-funciones/refactor-game-la-venganza/)
 [0040/11_game.py](11_game.py)
+
+[0040/11_ejercicio.py](11_ejercicio.py)
