@@ -16,3 +16,5 @@ Permite modificarse
 # [Comprensión de Diccionarios en Python: Ejemplos y Aplicaciones](https://platzi.com/cursos/python-funciones/dictionary-comprehension/)
 [0040/05_dict.py](05_dict.py)
 
+# [Dictionary Comprehension con Condicionales en Python](https://platzi.com/cursos/python-funciones/dictionary-comprehension-condition/)
+[0040/06_dict.py](06_dict.py)
