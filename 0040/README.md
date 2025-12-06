@@ -14,4 +14,5 @@ Permite modificarse
 [0040/04_list.py](04_list.py)
 
 # [Comprensión de Diccionarios en Python: Ejemplos y Aplicaciones](https://platzi.com/cursos/python-funciones/dictionary-comprehension/)
+[0040/05_dict.py](05_dict.py)
 
