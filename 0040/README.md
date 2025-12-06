@@ -13,3 +13,5 @@ Permite modificarse
 # [List Comprehension en Python: Sintaxis y Ejemplos Prácticos](https://platzi.com/cursos/python-funciones/list-comprehension/)
 [0040/04_list.py](04_list.py)
 
+# [Comprensión de Diccionarios en Python: Ejemplos y Aplicaciones](https://platzi.com/cursos/python-funciones/dictionary-comprehension/)
+
