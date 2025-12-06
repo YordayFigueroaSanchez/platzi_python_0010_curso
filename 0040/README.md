@@ -45,3 +45,6 @@ Permite modificarse
 
 # [Funciones Lambda en Python: Sintaxis y Aplicaciones Prácticas](https://platzi.com/cursos/python-funciones/funciones-anonimas-lambda/)
 [0040/12_lambda.py](12_lambda.py)
+
+# [Funciones de Orden Superior en Python: Concepto y Ejemplos Prácticos](https://platzi.com/cursos/python-funciones/higher-order-function-una-funcion-dentro-de-otra-f/)
+[0040/13_higher_order_function.py](13_higher_order_function.py)
