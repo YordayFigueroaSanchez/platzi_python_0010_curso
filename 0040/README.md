@@ -25,3 +25,6 @@ Permite modificarse
 |List           |Sí         |Sí         |Sí                 |Sí                 |          |
 |Tuple          |No         |Sí         |Sí                 |Sí                 |          |
 |Set            |Sí         |No         |No                 |No                 |          |
+
+# [Funciones en Programación: Creación y Uso en Python](https://platzi.com/cursos/python-funciones/funciones/)
+[0040/07_func.py](07_func.py)
