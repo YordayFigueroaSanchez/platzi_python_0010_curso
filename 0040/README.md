@@ -56,3 +56,4 @@ Permite modificarse
 [0040/15_map_complex.py](15_map_complex.py)
 
 # [Manejo de referencias en memoria con diccionarios y map en Python](https://platzi.com/cursos/python-funciones/reto-map-con-inmutabilidad/)
+[0040/15_ejercicio.py](15_ejercicio.py)
