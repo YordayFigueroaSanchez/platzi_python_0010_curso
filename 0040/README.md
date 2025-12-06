@@ -42,3 +42,6 @@ Permite modificarse
 [0040/11_game.py](11_game.py)
 
 [0040/11_ejercicio.py](11_ejercicio.py)
+
+# [Funciones Lambda en Python: Sintaxis y Aplicaciones Prácticas](https://platzi.com/cursos/python-funciones/funciones-anonimas-lambda/)
+[0040/12_lambda.py](12_lambda.py)
