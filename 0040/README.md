@@ -10,5 +10,6 @@ Permite modificarse
 # [Operaciones Fundamentales con Conjuntos en Python](https://platzi.com/cursos/python-funciones/operaciones-con-conjuntos/)
 [0040/03_set_operation.py](03_set_operation.py)
 
-
+# [List Comprehension en Python: Sintaxis y Ejemplos Prácticos](https://platzi.com/cursos/python-funciones/list-comprehension/)
+[0040/04_list.py](04_list.py)
 
