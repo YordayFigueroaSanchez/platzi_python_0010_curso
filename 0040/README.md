@@ -31,3 +31,6 @@ Permite modificarse
 
 # [Funciones en Python: Retorno de Valores y Reutilización de Código](https://platzi.com/cursos/python-funciones/funciones-return/)
 [0040/08_func_return.py](08_func_return.py)
+
+# [Funciones en Python: Retorno múltiple y valores por defecto](https://platzi.com/cursos/python-funciones/parametros-por-defecto-y-multiples-returns/)
+[0040/09_func_return_multi.py](09_func_return_multi.py)
