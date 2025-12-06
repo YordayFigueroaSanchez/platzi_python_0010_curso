@@ -18,3 +18,10 @@ Permite modificarse
 
 # [Dictionary Comprehension con Condicionales en Python](https://platzi.com/cursos/python-funciones/dictionary-comprehension-condition/)
 [0040/06_dict.py](06_dict.py)
+
+# [Comparación de Listas, Tuplas y Conjuntos en Python](https://platzi.com/cursos/python-funciones/lists-vs-tuples-vs-sets/)
+|Características|Mutable    |Ordenada   |Indexing-Slicing   |Duplicar elemntos  |Diferencia|
+|---------------|-----------|-----------|-------------------|-------------------|----------|
+|List           |Sí         |Sí         |Sí                 |Sí                 |          |
+|Tuple          |No         |Sí         |Sí                 |Sí                 |          |
+|Set            |Sí         |No         |No                 |No                 |          |
