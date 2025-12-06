@@ -65,3 +65,6 @@ Permite modificarse
 
 # [Uso de Reduce en Python para Manipular Listas](https://platzi.com/cursos/python-funciones/reduce/)
 [0040/18_reduce.py](18_reduce.py)
+
+# [Módulos en Python: Uso y Ejemplos Prácticos](https://platzi.com/cursos/python-funciones/modulos/)
+[0040/19_module.py](19_module.py)
