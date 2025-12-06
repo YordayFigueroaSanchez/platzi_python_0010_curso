@@ -37,3 +37,6 @@ Permite modificarse
 
 # [Entendiendo el Scope en Python: Variables y Funciones](https://platzi.com/cursos/python-funciones/el-scope/)
 [0040/10_scope.py](10_scope.py)
+
+# [Refactorización de Juegos en Python: Uso de Funciones](https://platzi.com/cursos/python-funciones/refactor-game-la-venganza/)
+[0040/11_game.py](11_game.py)
