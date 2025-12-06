@@ -28,3 +28,6 @@ Permite modificarse
 
 # [Funciones en Programación: Creación y Uso en Python](https://platzi.com/cursos/python-funciones/funciones/)
 [0040/07_func.py](07_func.py)
+
+# [Funciones en Python: Retorno de Valores y Reutilización de Código](https://platzi.com/cursos/python-funciones/funciones-return/)
+[0040/08_func_return.py](08_func_return.py)
