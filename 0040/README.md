@@ -89,3 +89,7 @@ Permite modificarse
 
 # [Errores y Excepciones en Python: Identificación y Manejo Básico](https://platzi.com/cursos/python-funciones/errores-en-python/)
 [0040/21_error.py](21_error.py)
+
+# [Manejo de Errores en Python: Uso de Try y Except](https://platzi.com/cursos/python-funciones/manejo-de-excepciones/)
+[0040/22_error.py](22_error.py)
+
