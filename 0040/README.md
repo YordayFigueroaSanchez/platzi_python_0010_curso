@@ -96,3 +96,6 @@ Permite modificarse
 
 # [Lectura y manejo de archivos de texto en Python](https://platzi.com/cursos/python-funciones/leer-un-archivo-de-texto/)
 [0040/23_files.py](23_files.py)
+
+# [Lectura y escritura de archivos de texto en Python](https://platzi.com/cursos/python-funciones/escribir-en-un-archivo/)
+[0040/24_write.py](24_write.py)
