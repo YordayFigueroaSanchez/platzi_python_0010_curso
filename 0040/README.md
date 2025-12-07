@@ -92,4 +92,5 @@ Permite modificarse
 
 # [Manejo de Errores en Python: Uso de Try y Except](https://platzi.com/cursos/python-funciones/manejo-de-excepciones/)
 [0040/22_error.py](22_error.py)
+[0040/22_ejercicio.py](22_ejercicio.py)
 
