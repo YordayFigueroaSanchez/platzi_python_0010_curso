@@ -79,3 +79,8 @@ Permite modificarse
 # [Paquetes en Python: Creación y Uso de Módulos](https://platzi.com/cursos/python-funciones/paquetes/)
 [0040/pkg/mod_1.py](pkg/mod_1.py)
 [0040/pkg/mod_2.py](pkg/mod_2.py)
+
+**Ejercicio**
+[0040/pkg/main.py](pkg/main.py) 
+[0040/pkg/my_functions.py](pkg/my_functions.py)
+
