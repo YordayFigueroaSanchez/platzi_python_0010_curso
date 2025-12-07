@@ -94,3 +94,5 @@ Permite modificarse
 [0040/22_error.py](22_error.py)
 [0040/22_ejercicio.py](22_ejercicio.py)
 
+# [Lectura y manejo de archivos de texto en Python](https://platzi.com/cursos/python-funciones/leer-un-archivo-de-texto/)
+[0040/23_files.py](23_files.py)
