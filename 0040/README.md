@@ -99,3 +99,9 @@ Permite modificarse
 
 # [Lectura y escritura de archivos de texto en Python](https://platzi.com/cursos/python-funciones/escribir-en-un-archivo/)
 [0040/24_write.py](24_write.py)
+
+# [Procesamiento de Archivos CSV en Python para Análisis de Datos](https://platzi.com/cursos/python-funciones/leer-un-csv/)
+[0040/25_csv.py](25_csv.py)
+[0040/app/read_csv.py](app/read_csv.py)
+**Recurso**
+[0040/app/data.csv](app/data.csv)
