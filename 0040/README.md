@@ -75,3 +75,7 @@ Permite modificarse
 
 # [Manejo de la dualidad de módulos en Python: script y módulo](https://platzi.com/cursos/python-funciones/modulos-como-scripts-__name__-y-__main/)
 [0040/app/example.py](app/example.py)
+
+# [Paquetes en Python: Creación y Uso de Módulos](https://platzi.com/cursos/python-funciones/paquetes/)
+[0040/pkg/mod_1.py](pkg/mod_1.py)
+[0040/pkg/mod_2.py](pkg/mod_2.py)
