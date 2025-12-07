@@ -108,3 +108,11 @@ Permite modificarse
 **Ejercicio**
 [0040/25_example.py](25_example.py)
 
+# [Gráficas con Matplotlib: Bar Chart y Pie Chart en Python](https://platzi.com/cursos/python-funciones/creando-una-grafica/)
+[0040/app/charts.py](app/charts.py)
+```
+uv add matplotlib
+```
+
+
+
