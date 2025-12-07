@@ -105,3 +105,6 @@ Permite modificarse
 [0040/app/read_csv.py](app/read_csv.py)
 **Recurso**
 [0040/app/data.csv](app/data.csv)
+**Ejercicio**
+[0040/25_example.py](25_example.py)
+
