@@ -72,3 +72,6 @@ Permite modificarse
 # [Creación y Uso de Módulos en Python](https://platzi.com/cursos/python-funciones/mis-propios-modulos/)
 [0040/app/utils.py](app/utils.py)
 [0040/app/main.py](app/main.py)
+
+# [Manejo de la dualidad de módulos en Python: script y módulo](https://platzi.com/cursos/python-funciones/modulos-como-scripts-__name__-y-__main/)
+[0040/app/example.py](app/example.py)

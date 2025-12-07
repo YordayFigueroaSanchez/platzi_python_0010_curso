@@ -16,5 +16,9 @@ data = [
     }
 ]
 
-country = input('Type a country: ')
-print(utils.population_by_country(data, country))
+def run():
+    country = input('Type a country: ')
+    print(utils.population_by_country(data, country))
+
+if __name__ == '__main__':
+    run()
