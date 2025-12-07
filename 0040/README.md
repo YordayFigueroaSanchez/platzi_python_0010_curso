@@ -68,3 +68,7 @@ Permite modificarse
 
 # [Módulos en Python: Uso y Ejemplos Prácticos](https://platzi.com/cursos/python-funciones/modulos/)
 [0040/19_module.py](19_module.py)
+
+# [Creación y Uso de Módulos en Python](https://platzi.com/cursos/python-funciones/mis-propios-modulos/)
+[0040/app/utils.py](app/utils.py)
+[0040/app/main.py](app/main.py)
