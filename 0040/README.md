@@ -87,3 +87,5 @@ Permite modificarse
 # [Control manual de iteradores en Python con next](https://platzi.com/cursos/python-funciones/iterables/)
 [0040/20_iterable.py](20_iterable.py)
 
+# [Errores y Excepciones en Python: Identificación y Manejo Básico](https://platzi.com/cursos/python-funciones/errores-en-python/)
+[0040/21_error.py](21_error.py)
