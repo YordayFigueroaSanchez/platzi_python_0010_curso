@@ -84,3 +84,6 @@ Permite modificarse
 [0040/pkg/main.py](pkg/main.py) 
 [0040/pkg/my_functions.py](pkg/my_functions.py)
 
+# [Control manual de iteradores en Python con next](https://platzi.com/cursos/python-funciones/iterables/)
+[0040/20_iterable.py](20_iterable.py)
+
