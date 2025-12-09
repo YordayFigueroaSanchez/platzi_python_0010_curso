@@ -119,3 +119,6 @@ uv add matplotlib
 
 # [Gráficos de Torta con Datos Filtrados en Python](https://platzi.com/cursos/python-funciones/reto-graficando-la-poblacion-mundial/)
 [0040/app/my_project_final_population_pie_chart.py](app/my_project_final_population_pie_chart.py)
+
+# Examen
+[0040/examen.py](examen.py)
