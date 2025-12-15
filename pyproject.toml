@@ -6,4 +6,10 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "matplotlib>=3.10.7",
+    "requests>=2.32.5",
+]
+
+[tool.uv.workspace]
+members = [
+    "0050/web-server",
 ]

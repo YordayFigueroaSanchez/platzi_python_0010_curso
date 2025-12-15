@@ -26,3 +26,5 @@ uv venv
 # Curso 0040 - Curso de Python: Comprehension y Manejo de Errores
 [0040/README.md](0040/README.md)
 
+# Curso 0050 - Curso de Python: PIP y Entornos Virtuales
+[0050/README.md](0050/README.md)
