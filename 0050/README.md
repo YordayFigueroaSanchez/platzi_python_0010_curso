@@ -31,3 +31,23 @@ uv lock
 
 # Pandas (13/20)
 [Pandas](https://platzi.com/cursos/python-pip/pandas/)
+
+# Python para Backend: web server con FastAPI
+[Python para Backend: web server con FastAPI](https://platzi.com/cursos/python-pip/python-para-backend-web-server-con-fastapi/)
+**Instalar fastapi y uvicorn**
+```:bash
+uv add fastapi
+```
+```:bash
+uv add uvicorn
+```
+**Iniciar servidor con uvicorn**
+```:bash
+uvicorn main:app --reload
+```
+**Documentación FastAPI**
+[FastAPI](https://fastapi.tiangolo.com/)
+**Documentación Uvicorn**
+[Uvicorn](https://www.uvicorn.org/)
+
+**Responder HTML**
