@@ -28,3 +28,6 @@ uv lock
 ```
 ## Usar api fakeplatzi
 [store.py](web-server/store.py)
+
+# Pandas (13/20)
+[Pandas](https://platzi.com/cursos/python-pip/pandas/)
