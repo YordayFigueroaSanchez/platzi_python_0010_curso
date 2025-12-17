@@ -51,3 +51,16 @@ uvicorn main:app --reload
 [Uvicorn](https://www.uvicorn.org/)
 
 **Responder HTML**
+
+# ¿Qué es Docker?
+[¿Qué es Docker?](https://platzi.com/cursos/python-pip/que-es-docker/)
+
+# Dockerizando web services
+[Dockerizando web services](https://platzi.com/cursos/python-pip/dockerizando-web-services/)
+
+```
+docker-compose build
+docker-compose up -d
+docker-compose ps
+docker-compose down
+```
