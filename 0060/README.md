@@ -37,3 +37,12 @@ uv add ipdb
 ```:bash
 python -m unittest discover -s tests
 ```
+
+# Pruebas Unitarias con Python: Métodos Setup y Teardown
+[Pruebas Unitarias con Python: Métodos Setup y Teardown](https://platzi.com/cursos/unit-testing-python/introduccion-a-la-biblioteca-unittest/)
+# Pruebas Unitarias con Método Setup en Python
+[Pruebas Unitarias con Método Setup en Python](https://platzi.com/cursos/unit-testing-python/uso-de-setup-para-preparacion-de-pruebas/)
+**Para ejecutar los tests con verbose**
+```:bash
+python -m unittest discover -s tests -v
+```
