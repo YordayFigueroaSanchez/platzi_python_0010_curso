@@ -26,3 +26,14 @@ uv venv
 ```:bash
 uv lock
 ```
+
+# Estructura de Proyectos de Testing con Unit Test en Python
+[Estructura de Proyectos de Testing con Unit Test en Python](https://platzi.com/cursos/unit-testing-python/instalacion-y-configuracion-del-entorno-de-pruebas/)
+**Util para hacer debugging**
+```:bash
+uv add ipdb
+```
+**Para ejecutar los tests**
+```:bash
+python -m unittest discover -s tests
+```
