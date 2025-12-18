@@ -28,3 +28,6 @@ uv venv
 
 # Curso 0050 - Curso de Python: PIP y Entornos Virtuales
 [0050/README.md](0050/README.md)
+
+# Curso 0060 - Curso de Unit Testing en Python
+[0060/README.md](0060/README.md)
