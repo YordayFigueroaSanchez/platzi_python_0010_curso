@@ -49,3 +49,6 @@ python -m unittest discover -s tests -v
 
 # Pruebas de Registro de Transacciones en Cuentas Bancarias
 [Pruebas de Registro de Transacciones en Cuentas Bancarias](https://platzi.com/cursos/unit-testing-python/uso-de-teardown-para-limpieza-de-pruebas/)
+
+# Métodos de Assert en UnitTest para Pruebas Efectivas
+[Métodos de Assert en UnitTest para Pruebas Efectivas](https://platzi.com/cursos/unit-testing-python/metodos-de-asercion-en-unittest/)

@@ -12,23 +12,23 @@ class BankAccountTest(unittest.TestCase):
 
     def test_deposit(self):
         new_balance = self.account.deposit(23)
-        assert new_balance == 123
+        self.assertEqual(new_balance, 123, "El balance no es el esperado")
 
     def test_withdraw(self):
         new_balance = self.account.withdraw(23)
-        assert new_balance == 77
+        self.assertEqual(new_balance, 77, "El balance no es el esperado")
 
     def test_get_balance(self):
         new_balance = self.account.get_balance()
-        assert new_balance == 100
+        self.assertEqual(new_balance, 100, "El balance no es el esperado")
 
     def test__log_transaction(self):
         self.account.deposit(23)
-        assert os.path.exists(self.account.log_file)
+        self.assertTrue(os.path.exists(self.account.log_file), "El archivo de log no existe")
 
     def _count_lines(self, file_path):
         with open(file_path, "r") as f:
             return len(f.readlines())
 
     def test_count_transactions(self):
-        assert self._count_lines(self.account.log_file) == 1
+        self.assertEqual(self._count_lines(self.account.log_file), 1)
