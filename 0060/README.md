@@ -52,3 +52,6 @@ python -m unittest discover -s tests -v
 
 # Métodos de Assert en UnitTest para Pruebas Efectivas
 [Métodos de Assert en UnitTest para Pruebas Efectivas](https://platzi.com/cursos/unit-testing-python/metodos-de-asercion-en-unittest/)
+
+# Métodos de Assert en UnitTest para Pruebas Efectivas
+[Métodos de Assert en UnitTest para Pruebas Efectivas](https://platzi.com/cursos/unit-testing-python/metodos-de-asercion-en-unittest/) 
