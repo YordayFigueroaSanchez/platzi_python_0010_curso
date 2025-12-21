@@ -55,3 +55,6 @@ python -m unittest discover -s tests -v
 
 # Métodos de Assert en UnitTest para Pruebas Efectivas
 [Métodos de Assert en UnitTest para Pruebas Efectivas](https://platzi.com/cursos/unit-testing-python/metodos-de-asercion-en-unittest/) 
+
+# Decoradores de Unit Test para Saltar Pruebas y Detectar Fallos
+[Decoradores de Unit Test para Saltar Pruebas y Detectar Fallos](https://platzi.com/cursos/unit-testing-python/saltar-pruebas-y-fallos-esperados/)
